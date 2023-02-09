@@ -1,2 +1,1 @@
-console.log("Feature Conflict 4");
-
+console.log("Feature Conflict Solved");
